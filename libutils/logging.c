@@ -27,7 +27,7 @@
 #include <string_lib.h>
 #include <misc_lib.h>
 #include <cleanup.h>
-
+#include <definitions.h>        /* CF_BUFSIZE */
 
 char VPREFIX[1024] = ""; /* GLOBAL_C */
 
